@@ -1,0 +1,20 @@
+
+
+
+
+h1 {
+    /* mêttre toutes les balises H1 en majuscule  */
+  text-transform: uppercase;
+    /* espace entre les lettres */
+  letter-spacing: 2px;
+    /* taille de la police parler en REM et non PX */ 
+  font-size: 1.5rem;
+ /* changer la couleur */
+  color: darkblue;
+  /* rajouter une ombre au text voir console pour plus de détails */
+  text-shadow: 2px 1px 2px #7cde19;
+  text-align: center;
+
+
+
+}
